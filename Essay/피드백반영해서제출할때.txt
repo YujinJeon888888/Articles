@@ -1,0 +1,10 @@
+body paragraph에 background 넣으면 안 됨
+
+피드백한 부분 고치고 & 댓글 삭제하고 제출하기
+
+body paragraph: explanation of solution , evaluation of solution
+->오직 이 정보들만. background같은건 필요없음.
+
+grading document 참고
+->language에서는 웬만해서는 안 깎음. 근데 mechanics는 틀리면안됨(spelling, ..: 각 부분에서 한개만 틀려도 -1임. (spelling을 10개틀려야 spelling 부분 -1이 아니라 spelling1개만 틀려도 spelling 부분 -1))
+
